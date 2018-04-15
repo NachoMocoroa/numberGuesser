@@ -1,5 +1,5 @@
 # numberGuesser
 Random number game. Vanilla JS.
 
-Preview:
+## Preview:
 # <img src="numberGuesser-Op.jpg" />
